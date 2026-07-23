@@ -1,4 +1,4 @@
-## 👋 Hi, I’m [Hassan](https://github.com/h-kxn)
+## Hi, I’m [Hassan](https://github.com/h-kxn)
 
  Freshman Computer Science major at IBA  
  Aspiring Computer Scientist
