@@ -6,7 +6,7 @@ Second-year Computer Science student at the Institute of Business Administration
 
 - **Languages:** C++
 - **Concepts:** Object-Oriented Programming, Data Structures & Algorithms, Digital Logic Design
-- **Currently learning:** Web Development (HTML, CSS, JavaScript), Data Structures & Algorithms (formal coursework)
+- **Currently learning:** Web Development (HTML, CSS, JavaScript), Data Structures & Algorithms 
 - **Tools:** Git, Logisim Evolution, raylib
 
 ## Major Projects
