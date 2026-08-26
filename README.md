@@ -22,4 +22,4 @@ Standard hardware multiplication doesn't scale well as matrix size grows. I desi
 
 ## LinkedIn
 
-[in/hassaan-khan-842b55311](https://linkedin.com/in/hassaan-khan-842b55311)
+[linkedin.com/in/hassan-khan](https://linkedin.com/in/hassaan-khan-842b55311)
